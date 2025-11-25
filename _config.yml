@@ -21,7 +21,7 @@ repository               : "https://github.com/chenlindu/chenlindu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "du.png"
   name             : "杜宸临"
   pronouns         : # example: "she/her"  
   bio              : "博士后、助理研究员（口腔医学人工智能）"
