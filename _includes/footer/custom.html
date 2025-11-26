@@ -1,3 +1,11 @@
 <!-- start custom footer snippets -->
 <a href="/sitemap/">Sitemap</a>
+<script>
+  (function(){
+    function getParam(name){var m=location.search.match(new RegExp('[?&]'+name+'=([^&]+)'));return m?decodeURIComponent(m[1]):null}
+    function setLang(l){var html=document.documentElement;html.classList.remove('lang-zh','lang-en');html.classList.add('lang-'+l);try{localStorage.setItem('lang',l)}catch(e){}var t=document.getElementById('lang-toggle');if(t){t.textContent=l==='zh'?'EN':'中文'}}
+    function init(){var q=getParam('lang');var d=(document.documentElement.getAttribute('lang')||'zh');var s=(function(){try{return localStorage.getItem('lang')}catch(e){return null}})();var l=q||(s?s:(d.indexOf('zh')===0?'zh':'en'));setLang(l);var t=document.getElementById('lang-toggle');if(t){t.addEventListener('click',function(e){e.preventDefault();var html=document.documentElement;setLang(html.classList.contains('lang-zh')?'en':'zh')})}}
+    if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init)}else{init()}
+  })();
+  </script>
 <!-- end custom footer snippets -->

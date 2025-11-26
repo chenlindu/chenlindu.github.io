@@ -62,3 +62,15 @@ a:hover {
   color: #555; /* 可选：调整字体颜色 */
 }
 
+html.lang-zh .lang-zh { display: block; }
+html.lang-zh .lang-en { display: none; }
+html.lang-en .lang-zh { display: none; }
+html.lang-en .lang-en { display: block; }
+
+#lang-toggle {
+  font-size: 0.8rem;
+  margin-left: 10px;
+  padding: 4px 8px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
