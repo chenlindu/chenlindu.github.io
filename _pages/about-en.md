@@ -11,7 +11,7 @@ author_profile: true
 
 - I am a Postdoctoral Fellow at Peking University School of Stomatology.
 - My research applies artificial intelligence to dentistry, with emphasis on foundation models, intelligent agents, and multimodal large language models.
-- Collaboration and research internship opportunities are welcome. Contact: `dcchenlin@icloud.com`.
+- 欢迎科研合作：“欢迎合作与学生申请，联系方式：dcchenlin@icloud.com。”
 
 ## Bio
 

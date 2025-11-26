@@ -12,7 +12,7 @@ redirect_from:
 
 - 我在北京大学口腔医学院从事博士后研究，聚焦“人工智能赋能口腔医学”。
 - 重点方向：Foundation Model、智能体（Agent）、多模态大语言模型（MLLM）。
-- 欢迎合作与学生申请，联系方式：`dcchenlin@icloud.com`。
+- 欢迎科研合作：“欢迎合作与学生申请，联系方式：dcchenlin@icloud.com。”
 
 ## 简介
 
