@@ -43,10 +43,10 @@ author_profile: true
   height: 130px; /* 固定高度 */
   margin-right: 10px;
   border-radius: 5px;
-  object-position: top; /* 将图片顶部对齐容器 */
-  object-fit: contain; /* 保持图片完整显示 */
-  background-color: transparent; /* 可选：为图片的空白区域添加背景色 */
-  padding: 0px; /* 设置内边距，使图片与容器边框有一定间距 */
+  object-position: left center; /* 保持左侧对齐，居中裁剪 */
+  object-fit: cover; /* 充满容器，统一视觉左对齐 */
+  background-color: transparent;
+  padding: 0;
 }
   .publication .thumb {
     width: 200px;
@@ -346,7 +346,7 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="/images/500x300.png" alt="Publication Image">
+      <img src="{{ base_path }}/images/500x300.png" alt="Publication Image">
       <div class="publication-content">
         <div class="publication-title">Minimally Invasive Local‑Skull Electrophysiological Modification With Piezoelectric Drill</div>
         <div class="publication-authors">Yike Sun, Anruo Shen, Jingnan Sun, <strong>Chenlin Du</strong>, Xiaogang Chen, Yijun Wang, Weihua Pei, Xiaorong Gao</div>
@@ -361,7 +361,7 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="/images/500x300.png" alt="Publication Image">
+      <img src="{{ base_path }}/images/500x300.png" alt="Publication Image">
       <div class="publication-content">
         <div class="publication-title">Slice‑based and time‑specific hemodynamic measurements discriminate carotid artery vulnerable atherosclerotic plaques</div>
         <div class="publication-authors">Rui Shen, Xinyu Tong, Dongye Li, Zihan Ning, Hualu Han, Yongjun Han, Dandan Yang, <strong>Chenlin Du</strong>, Tao Wang, Jingli Cao, Yilan Xu, Ran Huo, Huiyu Qiao, Xihai Zhao</div>

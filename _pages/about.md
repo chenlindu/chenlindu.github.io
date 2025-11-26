@@ -12,7 +12,7 @@ redirect_from:
 
 - 我在北京大学口腔医学院从事博士后研究，聚焦“人工智能赋能口腔医学”。
 - 重点方向：Foundation Model、智能体（Agent）、多模态大语言模型（MLLM）。
-- 欢迎合作与学生申请，联系方式：dcchenlin@icloud.com。
+ - 欢迎科研合作，联系方式：<a href="mailto:dcchenlin@icloud.com">dcchenlin@icloud.com</a>。
 
 ## 简介
 
@@ -37,7 +37,7 @@ redirect_from:
 
 ## 新闻
 
-- 2024：论文被接收为 MICCAI 2024 Spotlight
+ - 2024：我为共同第一作者的论文《Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation》被 MICCAI 2024 选为 Spotlight
 
 ## 代表性论文
 

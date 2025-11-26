@@ -11,7 +11,7 @@ author_profile: true
 
 - I am a Postdoctoral Fellow at Peking University School of Stomatology.
 - My research applies artificial intelligence to dentistry, with emphasis on foundation models, intelligent agents, and multimodal large language models.
-- Collaboration and student applications are welcome. Contact: dcchenlin@icloud.com.
+ - Collaboration in research is welcome. Contact: <a href="mailto:dcchenlin@icloud.com">dcchenlin@icloud.com</a>.
 
 ## Bio
 
@@ -26,7 +26,7 @@ I am a postdoctoral researcher at the Peking University School of Stomatology. I
 
 ## News
 
-- 2024: Our paper was accepted as a MICCAI 2024 Spotlight.
+ - 2024: Co‑first‑author paper “Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation” was selected as MICCAI 2024 Spotlight.
 
 ## Awards
 
