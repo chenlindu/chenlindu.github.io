@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="lang-zh">
+<div class="lang-zh" markdown="1">
 
 ## 基本信息
 
@@ -55,7 +55,7 @@ redirect_from:
 
 </div>
 
-<div class="lang-en">
+<div class="lang-en" markdown="1">
 
 ## Basic Information
 

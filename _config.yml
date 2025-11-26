@@ -23,10 +23,14 @@ author:
   # Biographic information
   avatar           : "du.png"
   name             : "杜宸临"
+  name_en          : "Chenlin Du"
   pronouns         : # example: "she/her"  
   bio              : "博士后、助理研究员（口腔医学人工智能）"
+  bio_en           : "Postdoctoral Fellow & Assistant Researcher (Dental AI)"
   location         : "北京，中国"
+  location_en      : "Beijing, China"
   employer         : "北京大学口腔医学院"
+  employer_en      : "Peking University School of Stomatology"
   uri              : "https://scholar.google.com/citations?user=aEvQIioAAAAJ&hl=zh-CN"
   email            : "dcchenlin@icloud.com" 
 
