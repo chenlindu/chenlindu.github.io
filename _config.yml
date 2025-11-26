@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 title                    : "关于"
+title_en                 : "About"
 title_separator          : "-"
 name                     : &name "杜宸临"
 description              : &description "口腔医学人工智能、医学图像处理、医疗大数据与大模型"
