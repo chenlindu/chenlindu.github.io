@@ -15,7 +15,7 @@ author_profile: true
 
 ## 🎯 Bio
 
-I am a postdoctoral researcher at the Peking University School of Stomatology. 🎓 I received my Ph.D. in Biomedical Engineering from Tsinghua University (Supervisor: Prof. Zongjiu Zhang, Vice Dean of Tsinghua Medicine), and my B.Eng. in Electronic Science and Technology from Beijing Jiaotong University (Supervisor: Prof. Yanfeng Li). 🧠 My research focuses on clinically aligned dental AI, including foundation models, multimodal large language models, and agent‑based systems; 🦷 the goal is to improve diagnostic accuracy, treatment planning, and workflow efficiency.
+I am a postdoctoral researcher at the Peking University School of Stomatology. I received my Ph.D. in Biomedical Engineering from Tsinghua University and my B.Eng. in Electronic Science and Technology from Beijing Jiaotong University. My research focuses on clinically aligned dental AI, including foundation models, multimodal large language models, and agent‑based systems; the goal is to improve diagnostic accuracy, treatment planning, and workflow efficiency.
 
 ## Research Overview
 
