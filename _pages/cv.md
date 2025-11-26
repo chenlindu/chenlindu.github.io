@@ -34,17 +34,17 @@ redirect_from:
 
 ## 科研成果（部分）
 
-1. Z Ma, 杜宸临, Q Lao, X Xie. Generative Artificial Intelligence: Applications and Future Prospects in Dentistry. International Dental Journal, 2026.
-2. Y Wang, X Wang, X Ming, Y Gu, Q Wang, M Zhu, L Qin, F Li, Y Xiao, H Hu, 杜宸临, 等. Development of an AI‑based model to precisely measure body surface area in psoriasis. Journal of Investigative Dermatology, 2025.
-3. Zhangyuan Yu#, 杜宸临#, 等. Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation. MICCAI, 2025.
-4. Haozhong Sun, Zhongsen Li, 杜宸临, 等. Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty. MICCAI, 2025.
-5. 杜宸临, 徐明明, 等. Artificial intelligence in stomatology: Innovations in clinical practice, research, education, and healthcare management. Journal of Peking University (Health Sciences), 2025.
-6. Zhongsen Li, A Sun, H Wei, W Chen, C Liu, H Sun, 杜宸临, R Li. Unsupervised 4D‑flow MRI reconstruction based on partially‑independent generative modeling and complex‑difference sparsity constraint. Medical Image Analysis, 2025.
-7. Q Kang, Q Lao, J Gao, W Bao, Z He, 杜宸临, Q Lu, K Lii. URFM: a general Ultrasound Representation Foundation Model for advancing ultrasound image diagnosis. iScience, 2025.
-8. 杜宸临#, 等. Combined static and dynamic computer‑guided surgery for prosthetically driven zygomatic implant placement. Journal of Dentistry, 2025, 152:105453.
-9. 杜宸临#, 等. Explainable machine learning model for pre‑frailty risk assessment in community‑dwelling older adults. Health Care Science, 2024.
-10. 杜宸临#, 等. Prompting vision‑language models for dental notation aware abnormality detection. MICCAI, 2024.
-11. Jiachen Liu, Zihan Ning, 杜宸临, 等. Histological Validation of 3D VFA TSE Multi‑Contrast MRI in Characterizing Carotid Vulnerable Plaques. J Cardiovasc Magn Reson, 2024.
+1. Zeyao Ma, 杜宸临, Qicheng Lao, Xianju Xie. Generative Artificial Intelligence: Applications and Future Prospects in Dentistry. International Dental Journal, 2026.
+2. Yiyi Wang, Xuhao Wang, Xinran Ming, Yuanxia Gu, Qian Wang, Mingzheng Zhu, Lin Qin, Furong Li, Yue Xiao, Hongxiang Hu, 杜宸临, Yue Zhang, Mingyue Zhang, Ranjie Hu, Wei Li. Development of an AI‑based model to precisely measure body surface area in psoriasis. Journal of Investigative Dermatology, 2025.
+3. Zhangyuan Yu, 杜宸临, Hongrui Liang, Xiuqi Zheng, Zeyao Ma, Mingjun Wu, Mingwu Ao, Qicheng Lao. Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation. MICCAI, 2025.
+4. Haozhong Sun, Zhongsen Li, 杜宸临, Haokun Li, Yajie Wang, Huijun Chen. Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty. MICCAI, 2025.
+5. 邓旭亮, 徐明明, 杜宸临. 人工智能驱动口腔医学：临床、科研、教学与管理的创新探索. 北京大学学报（医学版）, 2025.
+6. Zhongsen Li, Aiqi Sun, Haining Wei, Wenxuan Chen, Chuyu Liu, Haozhong Sun, 杜宸临, Rui Li. Unsupervised 4D‑flow MRI reconstruction based on partially‑independent generative modeling and complex‑difference sparsity constraint. Medical Image Analysis, 2025.
+7. Qingbo Kang, Qicheng Lao, Jun Gao, Wuyongga Bao, Zhu He, 杜宸临, Qiang Lu, Kang Li. URFM: a general Ultrasound Representation Foundation Model for advancing ultrasound image diagnosis. iScience, 2025.
+8. 杜宸临, Pei Peng, Xiaodong Guo, Yunshu Wu, Zeyu Zhang, Linke Hao, Zongjiu Zhang, Jingyu Xiong. Combined static and dynamic computer‑guided surgery for prosthetically driven zygomatic implant placement. Journal of Dentistry, 2025, 152:105453.
+9. 杜宸临, Zeyu Zhang, Baoqin Liu, Zijian Cao, Nan Jiang, Zongjiu Zhang. Explainable machine learning model for pre‑frailty risk assessment in community‑dwelling older adults. Health Care Science, 2024.
+10. 杜宸临, Xiaoxuan Chen, Jingyi Wang, Junjie Wang, Zhongsen Li, Zongjiu Zhang, Qicheng Lao. Prompting vision‑language models for dental notation aware abnormality detection. MICCAI, 2024.
+11. Jiachen Liu, Zihan Ning, 杜宸临, Shuo Chen, Tao Wang, Jingli Cao, Ran Huo, Dongye Li, Dandan Yang, Rui Shen, Shuwan Yu, Chunjiang Hu, Shuhao Wang, Huiyu Qiao, Xihai Zhao. Histological Validation of 3D VFA TSE Multi‑Contrast MRI in Characterizing Carotid Vulnerable Plaques. J Cardiovasc Magn Reson, 2024.
 
 ## 荣誉奖项
 
@@ -66,7 +66,7 @@ redirect_from:
 
 ## Work Experience
 
-- Peking University School of Stomatology, Postdoctoral Fellow & Assistant Researcher (2025.07–Present)
+ - Peking University School of Stomatology, Postdoctoral Fellow (2025.07– )
 - Mentor: Mingming Xu, Chief Physician
 - Research Areas: Dental AI, medical image processing, medical big data platform
 
@@ -85,7 +85,7 @@ redirect_from:
 2. Y Wang, X Wang, X Ming, Y Gu, Q Wang, M Zhu, L Qin, F Li, Y Xiao, H Hu, Chenlin Du, et al. Development of an AI‑based model to precisely measure body surface area in psoriasis. Journal of Investigative Dermatology, 2025.
 3. Zhangyuan Yu#, Chenlin Du#, et al. Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation. MICCAI, 2025.
 4. Haozhong Sun, Zhongsen Li, Chenlin Du, et al. Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty. MICCAI, 2025.
-5. 邓旭亮, 徐明明, 杜宸临. 人工智能驱动口腔医学：临床、科研、教学与管理的创新探索. 北京大学学报（医学版）, 2025.
+5. Xuliang Deng, Mingming Xu, Chenlin Du. Artificial intelligence in stomatology: Innovations in clinical practice, research, education, and healthcare management. Journal of Peking University (Health Sciences), 2025.
 6. Zhongsen Li, A Sun, H Wei, W Chen, C Liu, H Sun, Chenlin Du, R Li. Unsupervised 4D‑flow MRI reconstruction based on partially‑independent generative modeling and complex‑difference sparsity constraint. Medical Image Analysis, 2025.
 7. Q Kang, Q Lao, J Gao, W Bao, Z He, Chenlin Du, Q Lu, K Lii. URFM: a general Ultrasound Representation Foundation Model for advancing ultrasound image diagnosis. iScience, 2025.
 8. Chenlin Du#, et al. Combined static and dynamic computer‑guided surgery for prosthetically driven zygomatic implant placement. Journal of Dentistry, 2025, 152:105453.
