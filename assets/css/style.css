@@ -5,7 +5,7 @@ body {
     line-height: 1.8; /* 更宽松的行间距，提升阅读舒适性 */
     background-color: #ffffff; /* 白色背景，简洁干净 */
     margin: 0;
-    padding-top: 65px; /* 与固定导航栏高度一致，避免遮挡 */
+    padding-top: 80px; /* 与固定导航栏高度一致，避免遮挡 */
 }
 
 p {
