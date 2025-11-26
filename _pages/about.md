@@ -8,13 +8,13 @@ redirect_from:
 
 <div class="lang-zh" markdown="1">
 
-## 公告
+## 📢 公告
 
 - 我在北京大学口腔医学院从事博士后研究，聚焦“人工智能赋能口腔医学”。
 - 重点方向：Foundation Model、智能体（Agent）、多模态大语言模型（MLLM）。
 - 欢迎科研合作，联系方式：<a href="mailto:dcchenlin@icloud.com">dcchenlin@icloud.com</a>。
 
-## 简介
+## 🎯 简介
 
 我目前是北京大学口腔医学院博士后、助理研究员。博士毕业于清华大学生物医学工程，本科毕业于北京交通大学电子科学与技术。研究方向为面向临床的口腔医学人工智能，包括基础模型（Foundation Models）、多模态大语言模型（MLLM）与智能体系统，目标是提升诊断准确性、治疗规划与流程效率。
 
@@ -29,7 +29,7 @@ redirect_from:
 
 <ul class="timeline">
   <li><span class="date">2025</span> 启动北京大学口腔医学院博士后研究</li>
-  <li><span class="date">2024</span> 我为共同第一作者的论文《Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation》被 MICCAI 2024 选为 Spotlight</li>
+  <li><span class="date">2025</span> 我为共同第一作者的论文《Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation》被 MICCAI 2025 选为 Spotlight</li>
 </ul>
 
 ## 荣誉奖项
@@ -44,13 +44,13 @@ redirect_from:
 
 <div class="lang-en" markdown="1">
 
-## Announcement
+## 📢 Announcement
 
 - I am a Postdoctoral Fellow at Peking University School of Stomatology.
 - My research applies AI to dentistry, focusing on foundation models, intelligent agents, and multimodal large language models.
-- Collaboration and student applications are welcome. Contact: `dcchenlin@icloud.com`.
+- Collaboration in research is welcome. Contact: <a href="mailto:dcchenlin@icloud.com">dcchenlin@icloud.com</a>.
 
-## Bio
+## 🎯 Bio
 
 I am a postdoctoral researcher at the Peking University School of Stomatology. I received my Ph.D. in Biomedical Engineering from Tsinghua University (2020–2025) and my B.Eng. in Electronic Science and Technology from Beijing Jiaotong University (2016–2020). My work focuses on clinically aligned AI systems for dentistry—leveraging foundation models, multimodal LLMs, and agent‑based pipelines to improve diagnostic accuracy, treatment planning, and workflow efficiency.
 
@@ -61,38 +61,16 @@ I am a postdoctoral researcher at the Peking University School of Stomatology. I
 - Intelligent agents for end‑to‑end clinical workflows
 - Data‑efficient learning and robust clinical deployment
 
-## Education
-
-- Ph.D., Biomedical Engineering, Tsinghua University (2020–2025)
-- B.Eng., Electronic Science and Technology, Beijing Jiaotong University (2016–2020)
-
-## Work Experience
-
-- Postdoctoral Fellow & Assistant Researcher, Peking University School of Stomatology (2025– )
-
 ## News
 
-- 2024: Paper accepted as MICCAI 2024 Spotlight
-
-## Selected Publications
-
-- Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation, MICCAI 2025
-- Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty, MICCAI 2025
-- Combined static and dynamic computer‑guided surgery for zygomatic implant placement, Journal of Dentistry, 2025
-- Boosting Your Context by Dual Similarity Checkup for In‑Context Learning Medical Image Segmentation, IEEE TMI, 2024
-- Explainable machine learning model for pre‑frailty risk assessment, Health Care Science, 2024
-- Prompting vision‑language models for dental notation aware abnormality detection, MICCAI 2024
-- Histological Validation of 3D VFA TSE Vessel Wall Imaging, JCMR, 2024
-- A Real‑Time Non‑Implantation Bi‑Directional Brain–Computer Interface Solution, IEEE TNSRE, 2023
-- Minimally Invasive Local‑Skull Electrophysiological Modification With Piezoelectric Drill, IEEE TNSRE, 2022
-- Slice‑based and time‑specific hemodynamic measurements discriminate carotid vulnerable plaques, CMPB, 2022
-- Characterization of kidneys in systemic sclerosis by quantitative MRI, MRI, 2024
+<ul class="timeline">
+  <li><span class="date">2025</span> Started postdoctoral research at Peking University School of Stomatology</li>
+  <li><span class="date">2025</span> Co‑first‑author paper “Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation” was selected as MICCAI 2025 Spotlight</li>
+</ul>
 
 ## Awards
 
 - 2024, Tsinghua University Comprehensive Excellence Second Prize Scholarship
-- 2020, Outstanding Graduate, Beijing Jiaotong University
-- 2018 & 2019, Merit Student, Beijing Jiaotong University
 
 ## Academic Service
 
