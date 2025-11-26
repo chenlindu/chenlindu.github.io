@@ -9,24 +9,24 @@ author_profile: true
 
 ## Announcement
 
-- I am a Postdoctoral Fellow & Assistant Researcher at the Peking University School of Stomatology.
-- My research focuses on Dental AI, medical image processing, and medical big data platforms.
-- I welcome collaboration and student applications. Contact: `dcchenlin@icloud.com`.
+- I am a Postdoctoral Fellow at Peking University School of Stomatology.
+- My research applies artificial intelligence to dentistry, with emphasis on foundation models, intelligent agents, and multimodal large language models.
+- Collaboration and research internship opportunities are welcome. Contact: `dcchenlin@icloud.com`.
 
 ## Bio
 
-I am a postdoctoral researcher and assistant researcher at the Peking University School of Stomatology. I received my Ph.D. in Biomedical Engineering from Tsinghua University (2020–2025) and my B.Eng. in Electronic Science and Technology from Beijing Jiaotong University (2016–2020). My current research focuses on AI for dentistry, medical image processing, and clinical AI systems.
+I am a postdoctoral researcher at the Peking University School of Stomatology. I received my Ph.D. in Biomedical Engineering from Tsinghua University (2020–2025) and my B.Eng. in Electronic Science and Technology from Beijing Jiaotong University (2016–2020). My work focuses on building clinically aligned AI systems for dentistry—leveraging foundation models, multimodal LLMs, and agent-based pipelines to improve diagnostic accuracy, treatment planning, and workflow efficiency.
 
 ## Research Overview
 
-- Data-efficient learning for medical imaging
-- Foundation models and multimodal AI for dentistry
-- Clinical workflow oriented AI systems and evaluation
+- Foundation models for dental and medical imaging
+- Multimodal large language models for clinical decision support
+- Intelligent agents for end‑to‑end clinical workflows
+- Data‑efficient learning and robust deployment in clinical settings
 
 ## News
 
-- 2025: Multiple works accepted to journals and MICCAI; started postdoc at PKU School of Stomatology.
-- 2024: Published works in IEEE TMI, JCMR, and MICCAI.
+- 2024: Our paper was accepted as a MICCAI 2024 Spotlight.
 
 ## Awards
 
@@ -36,10 +36,8 @@ I am a postdoctoral researcher and assistant researcher at the Peking University
 
 ## Press
 
-Selected press and coverage to be updated.
+To be updated.
 
 ## Academic Service
 
-- Youth Editorial Board, Health Care Science (2025– )
-- Reviewer and contributor to medical imaging conferences and journals
-
+- Youth Editorial Board, Health Care Science (since 2025)
