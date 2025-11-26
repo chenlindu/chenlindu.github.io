@@ -32,17 +32,17 @@ redirect_from:
 
 ## 科研成果（部分）
 
-1. Zhangyuan Yu#, 杜宸临#, 等. Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation. MICCAI, 2025.
-2. Haozhong Sun, Zhongsen Li, 杜宸临, 等. Guiding Quantitative MRI Reconstruction with Phase-wise Uncertainty. MICCAI, 2025.
-3. 杜宸临#, 等. Combined static and dynamic computer‑guided surgery for prosthetically driven zygomatic implant placement. Journal of Dentistry, 2025, 152:105453.
-4. 杜宸临#, 等. Explainable machine learning model for pre‑frailty risk assessment in community‑dwelling older adults. Health Care Science, 2024.
-5. 杜宸临#, 等. Prompting vision‑language models for dental notation aware abnormality detection. MICCAI, 2024.
-6. 杜宸临, 等. Accuracy of characterizing carotid vulnerable atherosclerotic plaque by 3D MR vessel wall imaging: A histological validation study. ISMRM, 2022.
-7. Jiachen Liu, Zihan Ning, 杜宸临, 等. Histological Validation of 3D VFA TSE Multi‑Contrast MRI in Characterizing Carotid Vulnerable Plaques. J Cardiovasc Magn Reson, 2024.
-8. Yike Sun, Anruo Shen, 杜宸临, 等. A Real‑Time Non‑Implantation Bi‑Directional Brain–Computer Interface Solution. IEEE TNSRE, 2023.
-9. Yike Sun, Anruo Shen, 杜宸临, 等. Minimally Invasive Local‑Skull Electrophysiological Modification With Piezoelectric Drill. IEEE TNSRE, 2022.
-10. Rui Shen, Xinyu Tong, 杜宸临, 等. Slice‑based and time‑specific hemodynamic measurements discriminate carotid vulnerable plaques. CMPB, 2022.
-11. Xinyu Tong, Huilin He, 杜宸临, 等. Characterization of kidneys in systemic sclerosis by quantitative MRI. MRI, 2024.
+1. Z Ma, 杜宸临, Q Lao, X Xie. Generative Artificial Intelligence: Applications and Future Prospects in Dentistry. International Dental Journal, 2026.
+2. Y Wang, X Wang, X Ming, Y Gu, Q Wang, M Zhu, L Qin, F Li, Y Xiao, H Hu, 杜宸临, 等. Development of an AI‑based model to precisely measure body surface area in psoriasis. Journal of Investigative Dermatology, 2025.
+3. Zhangyuan Yu#, 杜宸临#, 等. Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation. MICCAI, 2025.
+4. Haozhong Sun, Zhongsen Li, 杜宸临, 等. Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty. MICCAI, 2025.
+5. 杜宸临, 徐明明, 等. Artificial intelligence in stomatology: Innovations in clinical practice, research, education, and healthcare management. Journal of Peking University (Health Sciences), 2025.
+6. Zhongsen Li, A Sun, H Wei, W Chen, C Liu, H Sun, 杜宸临, R Li. Unsupervised 4D‑flow MRI reconstruction based on partially‑independent generative modeling and complex‑difference sparsity constraint. Medical Image Analysis, 2025.
+7. Q Kang, Q Lao, J Gao, W Bao, Z He, 杜宸临, Q Lu, K Lii. URFM: a general Ultrasound Representation Foundation Model for advancing ultrasound image diagnosis. Science, 2025.
+8. 杜宸临#, 等. Combined static and dynamic computer‑guided surgery for prosthetically driven zygomatic implant placement. Journal of Dentistry, 2025, 152:105453.
+9. 杜宸临#, 等. Explainable machine learning model for pre‑frailty risk assessment in community‑dwelling older adults. Health Care Science, 2024.
+10. 杜宸临#, 等. Prompting vision‑language models for dental notation aware abnormality detection. MICCAI, 2024.
+11. Jiachen Liu, Zihan Ning, 杜宸临, 等. Histological Validation of 3D VFA TSE Multi‑Contrast MRI in Characterizing Carotid Vulnerable Plaques. J Cardiovasc Magn Reson, 2024.
 
 ## 荣誉奖项
 
