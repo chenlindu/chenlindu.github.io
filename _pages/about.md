@@ -28,7 +28,7 @@ redirect_from:
 ## 新闻
 
 <ul class="timeline">
-  <li><span class="date">2025</span> 启动北京大学口腔医学院博士后研究</li>
+  <li><span class="date">2025</span> 开始在北京大学口腔医学院从事博士后研究</li>
   <li><span class="date">2025</span> 我为共同第一作者的论文《Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation》被 MICCAI 2025 选为 Spotlight</li>
 </ul>
 
