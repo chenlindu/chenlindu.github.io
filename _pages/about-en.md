@@ -26,7 +26,10 @@ I am a postdoctoral researcher at the Peking University School of Stomatology. I
 
 ## News
 
- - 2024: Co‑first‑author paper “Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation” was selected as MICCAI 2024 Spotlight.
+<ul class="timeline">
+  <li><span class="date">2025</span> Started postdoctoral research at Peking University School of Stomatology</li>
+  <li><span class="date">2024</span> Co‑first‑author paper “Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation” was selected as MICCAI 2024 Spotlight</li>
+</ul>
 
 ## Awards
 

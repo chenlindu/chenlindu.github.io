@@ -12,7 +12,7 @@ redirect_from:
 
 - 我在北京大学口腔医学院从事博士后研究，聚焦“人工智能赋能口腔医学”。
 - 重点方向：Foundation Model、智能体（Agent）、多模态大语言模型（MLLM）。
- - 欢迎科研合作，联系方式：<a href="mailto:dcchenlin@icloud.com">dcchenlin@icloud.com</a>。
+- 欢迎科研合作，联系方式：<a href="mailto:dcchenlin@icloud.com">dcchenlin@icloud.com</a>。
 
 ## 简介
 
@@ -20,45 +20,21 @@ redirect_from:
 
 ## 研究概览
 
-- 面向口腔/医学影像的基础模型（Foundation Models）
-- 面向临床决策的多模态大语言模型（MLLM）
-- 端到端临床工作流的智能体系统（Agents）
-- 数据高效学习与稳健部署（临床适配与评估）
-
-## 教育背景
-
-- 清华大学，生物医学工程，工学博士（2020.09–2025.06）
-- 北京交通大学，电子科学与技术，工学学士（2016.09–2020.06）
-
-## 工作经历
-
-- 北京大学口腔医学院，博士后、助理研究员（2025.07–至今）
-- 合作教师：徐明明 主任医师
+- 基础模型（Foundation Models）
+- 多模态大语言模型（MLLM）
+- 临床工作流智能体（Agents）
+- 数据高效学习与稳健部署
 
 ## 新闻
 
- - 2024：我为共同第一作者的论文《Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation》被 MICCAI 2024 选为 Spotlight
-
-## 代表性论文
-
-- Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation, MICCAI 2025
-- Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty, MICCAI 2025
-- Combined static and dynamic computer‑guided surgery for zygomatic implant placement, Journal of Dentistry, 2025
-- Boosting Your Context by Dual Similarity Checkup for In‑Context Learning Medical Image Segmentation, IEEE TMI, 2024
-- Explainable machine learning model for pre‑frailty risk assessment, Health Care Science, 2024
-- Prompting vision‑language models for dental notation aware abnormality detection, MICCAI 2024
-- Histological Validation of 3D VFA TSE Vessel Wall Imaging, J Cardiovasc Magn Reson, 2024
-- A Real‑Time Non‑Implantation Bi‑Directional Brain–Computer Interface Solution, IEEE TNSRE, 2023
-- Minimally Invasive Local‑Skull Electrophysiological Modification With Piezoelectric Drill, IEEE TNSRE, 2022
-- Slice‑based and time‑specific hemodynamic measurements discriminate carotid vulnerable plaques, CMPB, 2022
-- Characterization of kidneys in systemic sclerosis by quantitative MRI, MRI, 2024
+<ul class="timeline">
+  <li><span class="date">2025</span> 启动北京大学口腔医学院博士后研究</li>
+  <li><span class="date">2024</span> 我为共同第一作者的论文《Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation》被 MICCAI 2024 选为 Spotlight</li>
+</ul>
 
 ## 荣誉奖项
 
 - 2024 年清华大学综合优秀二等奖学金
-- 北京交通大学优秀毕业生（2020）
-- 北京交通大学三好学生（2018、2019）
-- 北京交通大学二等学习优秀奖学金（2018、2019）
 
 ## 学术服务
 
