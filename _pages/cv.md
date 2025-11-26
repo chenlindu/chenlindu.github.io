@@ -12,7 +12,7 @@ redirect_from:
 ## 基本信息
 
 - 姓名：杜宸临
-- 邮箱：`duchenlin980219@outlook.com`
+- 邮箱：`dcchenlin@icloud.com`
 - 电话：`(+86)131 6126 3033`
 - Google Scholar：`https://scholar.google.com/citations?user=aEvQIioAAAAJ&hl=zh-CN`
 

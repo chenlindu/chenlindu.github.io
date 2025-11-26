@@ -10,7 +10,7 @@ redirect_from:
 
 - 杜宸临，北京大学口腔医学院博士后、助理研究员。
 - 研究方向：口腔医学人工智能、医学图像处理、医疗大数据平台建设、医学大模型。
-- 联系方式：邮箱 `duchenlin980219@outlook.com`，电话 `(+86)131 6126 3033`。
+- 联系方式：邮箱 `dcchenlin@icloud.com`，电话 `(+86)131 6126 3033`。
 - 学术主页：Google Scholar `https://scholar.google.com/citations?user=aEvQIioAAAAJ&hl=zh-CN`。
 
 ## 教育背景

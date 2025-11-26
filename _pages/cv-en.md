@@ -12,7 +12,7 @@ redirect_from:
 ## Basic Information
 
 - Name: Chenlin Du
-- Email: `duchenlin980219@outlook.com`
+ - Email: `dcchenlin@icloud.com`
 - Phone: `(+86)131 6126 3033`
 - Google Scholar: `https://scholar.google.com/citations?user=aEvQIioAAAAJ&hl=en`
 
