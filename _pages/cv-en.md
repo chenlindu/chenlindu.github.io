@@ -67,7 +67,7 @@ redirect_from:
 ## Work Experience
 
  - Peking University School of Stomatology, Postdoctoral Fellow (2025.07–Present)
-- Mentor: Mingming Xu, Chief Physician
+- Mentor: Dr. Mingming Xu, Chief Stomatologist
 - Research Areas: Dental AI, medical image processing, medical big data platform
 
 ## Education
