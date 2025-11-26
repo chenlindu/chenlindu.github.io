@@ -39,7 +39,7 @@ redirect_from:
 4. Haozhong Sun, Zhongsen Li, Chenlin Du, et al. Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty. MICCAI, 2025.
 5. Chenlin Du, Mingming Xu, et al. Artificial intelligence in stomatology: Innovations in clinical practice, research, education, and healthcare management. Journal of Peking University (Health Sciences), 2025.
 6. Zhongsen Li, A Sun, H Wei, W Chen, C Liu, H Sun, Chenlin Du, R Li. Unsupervised 4D‑flow MRI reconstruction based on partially‑independent generative modeling and complex‑difference sparsity constraint. Medical Image Analysis, 2025.
-7. Q Kang, Q Lao, J Gao, W Bao, Z He, Chenlin Du, Q Lu, K Lii. URFM: a general Ultrasound Representation Foundation Model for advancing ultrasound image diagnosis. Science, 2025.
+7. Q Kang, Q Lao, J Gao, W Bao, Z He, Chenlin Du, Q Lu, K Lii. URFM: a general Ultrasound Representation Foundation Model for advancing ultrasound image diagnosis. iScience, 2025.
 8. Chenlin Du#, et al. Combined static and dynamic computer‑guided surgery for prosthetically driven zygomatic implant placement. Journal of Dentistry, 2025, 152:105453.
 9. Chenlin Du#, et al. Explainable machine learning model for pre‑frailty risk assessment in community‑dwelling older adults. Health Care Science, 2024.
 10. Chenlin Du#, et al. Prompting vision‑language models for dental notation aware abnormality detection. MICCAI, 2024.
