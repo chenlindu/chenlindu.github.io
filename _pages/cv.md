@@ -34,7 +34,7 @@ redirect_from:
 
 ## 科研成果（部分）
 
-1. 马泽垚, 杜宸临, 劳琪成, 谢贤聚. Generative Artificial Intelligence: Applications and Future Prospects in Dentistry. International Dental Journal, 2026.
+1. 马泽垚#, 杜宸临#†, 劳琪成, 谢贤聚†. Generative Artificial Intelligence: Applications and Future Prospects in Dentistry. International Dental Journal, 2026.
 2. Yiyi Wang, Xuhao Wang, Xinran Ming, Yuanxia Gu, Qian Wang, Mingzheng Zhu, Lin Qin, Furong Li, Yue Xiao, Hongxiang Hu, 杜宸临, Yue Zhang, Mingyue Zhang, Ranjie Hu, Wei Li. Development of an AI‑based model to precisely measure body surface area in psoriasis. Journal of Investigative Dermatology, 2025.
 3. 郁璋源, 杜宸临, 梁洪瑞, 郑修齐, 马泽垚, 吴明军, 敖明武, 劳琪成. Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation. MICCAI, 2025.
 4. 孙浩中, 李中森, 杜宸临, 李昊焜, 王雅洁, 陈慧君. Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty. MICCAI, 2025.
@@ -81,7 +81,7 @@ redirect_from:
 
 ## Selected Publications
 
-1. Zeyao Ma#, Chenlin Du#, Qicheng Lao, Xianju Xie†. Generative Artificial Intelligence: Applications and Future Prospects in Dentistry. International Dental Journal, 2026.
+1. Zeyao Ma#, Chenlin Du#†, Qicheng Lao, Xianju Xie†. Generative Artificial Intelligence: Applications and Future Prospects in Dentistry. International Dental Journal, 2026.
 2. Yiyi Wang, Xuhao Wang, Xinran Ming, Yuanxia Gu, Qian Wang, Mingzheng Zhu, Lin Qin, Furong Li, Yue Xiao, Hongxiang Hu, Chenlin Du, Yue Zhang, Mingyue Zhang, Ranjie Hu, Wei Li. Development of an AI‑based model to precisely measure body surface area in psoriasis. Journal of Investigative Dermatology, 2025.
 3. Zhangyuan Yu, Chenlin Du, Hongrui Liang, Xiuqi Zheng, Zeyao Ma, Mingjun Wu, Mingwu Ao, Qicheng Lao. Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation. MICCAI, 2025.
 4. Haozhong Sun, Zhongsen Li, Chenlin Du, Haokun Li, Yajie Wang, Huijun Chen. Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty. MICCAI, 2025.
