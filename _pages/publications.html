@@ -120,9 +120,27 @@ author_profile: true
 
   /* Use flex layout (stable previous version) */
   .publication {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
+    display: grid;
+    grid-template-columns: 200px 1fr 60px;
+    column-gap: 10px;
+    align-items: start;
+  }
+  .publication > img,
+  .publication > .thumb {
+    grid-column: 1;
+    width: 200px;
+    height: 130px;
+    object-fit: cover;
+    object-position: left center;
+    margin-right: 0;
+  }
+  .publication > .publication-content {
+    grid-column: 2;
+  }
+  .publication > .publication-year {
+    grid-column: 3;
+    margin-left: 0;
+    text-align: right;
   }
   
 </style>
