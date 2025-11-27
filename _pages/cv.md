@@ -36,7 +36,7 @@ redirect_from:
 
 1. 马泽垚#, 杜宸临#†, 劳琪成, 谢贤聚†. Generative Artificial Intelligence: Applications and Future Prospects in Dentistry. International Dental Journal, 2026.
 2. Yiyi Wang, Xuhao Wang, Xinran Ming, Yuanxia Gu, Qian Wang, Mingzheng Zhu, Lin Qin, Furong Li, Yue Xiao, Hongxiang Hu, 杜宸临, Yue Zhang, Mingyue Zhang, Ranjie Hu, Wei Li. Development of an AI‑based model to precisely measure body surface area in psoriasis. Journal of Investigative Dermatology, 2025.
-3. 郁璋源, 杜宸临, 梁洪瑞, 郑修齐, 马泽垚, 吴明军, 敖明武, 劳琪成. Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation. MICCAI, 2025.
+3. 郁璋源#, 杜宸临#, 梁洪瑞, 郑修齐, 马泽垚, 吴明军, 敖明武, 劳琪成. Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation. MICCAI, 2025.
 4. 孙浩中, 李中森, 杜宸临, 李昊焜, 王雅洁, 陈慧君. Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty. MICCAI, 2025.
 5. 邓旭亮, 徐明明, 杜宸临. 人工智能驱动口腔医学：临床、科研、教学与管理的创新探索. 北京大学学报（医学版）, 2025.
 6. Zhongsen Li, Aiqi Sun, Haining Wei, Wenxuan Chen, Chuyu Liu, Haozhong Sun, 杜宸临, Rui Li. Unsupervised 4D‑flow MRI reconstruction based on partially‑independent generative modeling and complex‑difference sparsity constraint. Medical Image Analysis, 2025.
@@ -83,7 +83,7 @@ redirect_from:
 
 1. Zeyao Ma#, Chenlin Du#†, Qicheng Lao, Xianju Xie†. Generative Artificial Intelligence: Applications and Future Prospects in Dentistry. International Dental Journal, 2026.
 2. Yiyi Wang, Xuhao Wang, Xinran Ming, Yuanxia Gu, Qian Wang, Mingzheng Zhu, Lin Qin, Furong Li, Yue Xiao, Hongxiang Hu, Chenlin Du, Yue Zhang, Mingyue Zhang, Ranjie Hu, Wei Li. Development of an AI‑based model to precisely measure body surface area in psoriasis. Journal of Investigative Dermatology, 2025.
-3. Zhangyuan Yu, Chenlin Du, Hongrui Liang, Xiuqi Zheng, Zeyao Ma, Mingjun Wu, Mingwu Ao, Qicheng Lao. Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation. MICCAI, 2025.
+3. Zhangyuan Yu#, Chenlin Du#, Hongrui Liang, Xiuqi Zheng, Zeyao Ma, Mingjun Wu, Mingwu Ao, Qicheng Lao. Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation. MICCAI, 2025.
 4. Haozhong Sun, Zhongsen Li, Chenlin Du, Haokun Li, Yajie Wang, Huijun Chen. Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty. MICCAI, 2025.
 5. Xuliang Deng, Mingming Xu, Chenlin Du. Artificial intelligence in stomatology: Innovations in clinical practice, research, education, and healthcare management. Journal of Peking University (Health Sciences), 2025.
 6. Zhongsen Li, Aiqi Sun, Haining Wei, Wenxuan Chen, Chuyu Liu, Haozhong Sun, Chenlin Du, Rui Li. Unsupervised 4D‑flow MRI reconstruction based on partially‑independent generative modeling and complex‑difference sparsity constraint. Medical Image Analysis, 2025.
