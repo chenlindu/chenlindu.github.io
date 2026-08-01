@@ -36,7 +36,7 @@ redirect_from:
     <h2>连接人工智能方法与真实临床需求</h2>
     <p>我现于北京大学口腔医学院开展博士后研究，兼任助理研究员。博士毕业于清华大学生物医学工程专业，本科毕业于北京交通大学电子科学与技术专业。</p>
     <p>我的研究融合基础模型、多模态大语言模型与智能体技术，致力于为疾病筛查、辅助诊断、治疗规划和诊疗流程协同提供可靠、可解释、可部署的智能工具。</p>
-    <div class="home-signature" aria-label="学术概览"><div><strong>18</strong><span>篇论文</span></div><div><strong>MICCAI</strong><span>2025 Spotlight</span></div><div><strong>Dental AI</strong><span>临床转化研究</span></div></div>
+    <div class="home-signature" aria-label="学术概览"><div><strong>20</strong><span>篇论文</span></div><div><strong>MICCAI</strong><span>2025 Spotlight</span></div><div><strong>Dental AI</strong><span>临床转化研究</span></div></div>
   </div>
 </section>
 
@@ -115,7 +115,7 @@ redirect_from:
     <h2>Connecting AI methodology with real clinical needs</h2>
     <p>I am a Postdoctoral Fellow and Assistant Researcher at Peking University School of Stomatology. I received my Ph.D. in Biomedical Engineering from Tsinghua University and my B.Eng. in Electronic Science and Technology from Beijing Jiaotong University.</p>
     <p>My research combines foundation models, multimodal large language models, and agent-based systems to support disease screening, assisted diagnosis, treatment planning, and coordinated clinical workflows.</p>
-    <div class="home-signature" aria-label="Academic overview"><div><strong>18</strong><span>Publications</span></div><div><strong>MICCAI</strong><span>2025 Spotlight</span></div><div><strong>Dental AI</strong><span>Clinical Translation</span></div></div>
+    <div class="home-signature" aria-label="Academic overview"><div><strong>20</strong><span>Publications</span></div><div><strong>MICCAI</strong><span>2025 Spotlight</span></div><div><strong>Dental AI</strong><span>Clinical Translation</span></div></div>
   </div>
 </section>
 
