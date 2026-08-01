@@ -1,6 +1,6 @@
 ---
 permalink: /
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
@@ -8,20 +8,35 @@ redirect_from:
 
 <div class="lang-zh" markdown="1">
 
-<section class="home-intro">
-  <p class="home-kicker">口腔医学人工智能 · 医学影像 · 基础模型</p>
-  <h1>让人工智能真正进入口腔临床工作流</h1>
-  <p class="home-lead">我现为北京大学口腔医学院博士后、助理研究员，专注于面向真实临床场景的口腔医学人工智能研究。</p>
-  <p>我的工作融合基础模型、多模态大语言模型与智能体技术，希望为疾病筛查、辅助诊断、治疗规划和诊疗流程协同提供可靠、可解释、可部署的智能工具。</p>
-  <div class="home-actions">
-    <a class="home-action home-action--primary" href="/publications/">查看论文</a>
-    <a class="home-action" href="/cv/">个人简历</a>
-    <a class="home-action" href="mailto:dcchenlin@icloud.com">科研合作</a>
+<section class="profile-hero">
+  <div class="profile-hero__content">
+    <p class="home-kicker">Dental AI · Medical Imaging · Foundation Models</p>
+    <h1>杜宸临</h1>
+    <p class="profile-hero__name-en">Chenlin Du</p>
+    <p class="profile-hero__role">北京大学口腔医学院<br>博士后 · 助理研究员</p>
+    <p class="profile-hero__statement">让人工智能真正进入口腔临床工作流。</p>
+    <div class="home-actions">
+      <a class="home-action home-action--primary" href="/publications/">论文发表</a>
+      <a class="home-action" href="/cv/">个人简历</a>
+      <a class="home-action" href="mailto:dcchenlin@icloud.com">联系合作</a>
+    </div>
   </div>
-  <div class="home-signature" aria-label="学术概览">
-    <div><strong>18</strong><span>篇论文</span></div>
-    <div><strong>MICCAI</strong><span>2025 Spotlight</span></div>
-    <div><strong>Dental AI</strong><span>临床转化研究</span></div>
+  <div class="profile-hero__portrait" role="img" aria-label="杜宸临个人照片"></div>
+</section>
+
+<section class="academic-overview">
+  <div class="academic-overview__facts">
+    <div><span>任职</span><strong>北京大学口腔医学院</strong><p>博士后、助理研究员</p></div>
+    <div><span>教育</span><strong>清华大学</strong><p>生物医学工程博士</p></div>
+    <div><span>研究领域</span><strong>口腔医学人工智能</strong><p>基础模型、多模态大模型、智能体</p></div>
+    <div><span>联系方式</span><strong><a href="mailto:dcchenlin@icloud.com">dcchenlin@icloud.com</a></strong><p>北京，中国</p></div>
+  </div>
+  <div class="academic-overview__bio">
+    <p class="section-kicker">Short Bio</p>
+    <h2>连接人工智能方法与真实临床需求</h2>
+    <p>我现于北京大学口腔医学院开展博士后研究，兼任助理研究员。博士毕业于清华大学生物医学工程专业，本科毕业于北京交通大学电子科学与技术专业。</p>
+    <p>我的研究融合基础模型、多模态大语言模型与智能体技术，致力于为疾病筛查、辅助诊断、治疗规划和诊疗流程协同提供可靠、可解释、可部署的智能工具。</p>
+    <div class="home-signature" aria-label="学术概览"><div><strong>18</strong><span>篇论文</span></div><div><strong>MICCAI</strong><span>2025 Spotlight</span></div><div><strong>Dental AI</strong><span>临床转化研究</span></div></div>
   </div>
 </section>
 
@@ -72,20 +87,35 @@ redirect_from:
 
 <div class="lang-en" markdown="1">
 
-<section class="home-intro">
-  <p class="home-kicker">Dental AI · Medical Imaging · Foundation Models</p>
-  <h1>Bringing artificial intelligence into real dental workflows</h1>
-  <p class="home-lead">I am a Postdoctoral Fellow and Assistant Researcher at Peking University School of Stomatology, working at the intersection of artificial intelligence and clinical dentistry.</p>
-  <p>My research combines foundation models, multimodal large language models, and agent-based systems to support disease screening, assisted diagnosis, treatment planning, and coordinated clinical workflows.</p>
-  <div class="home-actions">
-    <a class="home-action home-action--primary" href="/publications/">Publications</a>
-    <a class="home-action" href="/cv/">Curriculum Vitae</a>
-    <a class="home-action" href="mailto:dcchenlin@icloud.com">Collaborate</a>
+<section class="profile-hero">
+  <div class="profile-hero__content">
+    <p class="home-kicker">Dental AI · Medical Imaging · Foundation Models</p>
+    <h1>Chenlin Du</h1>
+    <p class="profile-hero__name-en">杜宸临</p>
+    <p class="profile-hero__role">Peking University School of Stomatology<br>Postdoctoral Fellow · Assistant Researcher</p>
+    <p class="profile-hero__statement">Bringing artificial intelligence into real dental workflows.</p>
+    <div class="home-actions">
+      <a class="home-action home-action--primary" href="/publications/">Publications</a>
+      <a class="home-action" href="/cv/">Curriculum Vitae</a>
+      <a class="home-action" href="mailto:dcchenlin@icloud.com">Contact</a>
+    </div>
   </div>
-  <div class="home-signature" aria-label="Academic overview">
-    <div><strong>18</strong><span>Publications</span></div>
-    <div><strong>MICCAI</strong><span>2025 Spotlight</span></div>
-    <div><strong>Dental AI</strong><span>Clinical Translation</span></div>
+  <div class="profile-hero__portrait" role="img" aria-label="Portrait of Chenlin Du"></div>
+</section>
+
+<section class="academic-overview">
+  <div class="academic-overview__facts">
+    <div><span>Appointment</span><strong>Peking University School of Stomatology</strong><p>Postdoctoral Fellow · Assistant Researcher</p></div>
+    <div><span>Education</span><strong>Tsinghua University</strong><p>Ph.D. in Biomedical Engineering</p></div>
+    <div><span>Research</span><strong>Artificial Intelligence in Dentistry</strong><p>Foundation Models · MLLMs · Agents</p></div>
+    <div><span>Contact</span><strong><a href="mailto:dcchenlin@icloud.com">dcchenlin@icloud.com</a></strong><p>Beijing, China</p></div>
+  </div>
+  <div class="academic-overview__bio">
+    <p class="section-kicker">Short Bio</p>
+    <h2>Connecting AI methodology with real clinical needs</h2>
+    <p>I am a Postdoctoral Fellow and Assistant Researcher at Peking University School of Stomatology. I received my Ph.D. in Biomedical Engineering from Tsinghua University and my B.Eng. in Electronic Science and Technology from Beijing Jiaotong University.</p>
+    <p>My research combines foundation models, multimodal large language models, and agent-based systems to support disease screening, assisted diagnosis, treatment planning, and coordinated clinical workflows.</p>
+    <div class="home-signature" aria-label="Academic overview"><div><strong>18</strong><span>Publications</span></div><div><strong>MICCAI</strong><span>2025 Spotlight</span></div><div><strong>Dental AI</strong><span>Clinical Translation</span></div></div>
   </div>
 </section>
 
