@@ -138,22 +138,22 @@ html.lang-zh .language-switch__en, html.lang-en .language-switch__zh { color: va
 
 .profile-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1.08fr) minmax(360px, 0.92fr);
-  min-height: 610px;
-  margin: -2.2em calc(50% - 50vw) 0;
-  padding-left: max(calc((100vw - 1280px) / 2), 5vw);
+  grid-template-columns: minmax(0, 1fr) 390px;
+  min-height: 520px;
+  margin: 0;
+  border-top: 2px solid var(--ink);
   border-bottom: 1px solid var(--line);
-  background: #eef4f3;
+  background: var(--white);
   overflow: hidden;
 }
-.profile-hero__content { align-self: center; max-width: 650px; padding: 5rem 3.5rem 5rem 0; }
-.profile-hero__content h1 { margin: 0; color: #12343a; font-family: Montserrat, Arial, sans-serif; font-size: 4.65rem; font-weight: 700; line-height: 1.02; }
+.profile-hero__content { align-self: center; max-width: 620px; padding: 4rem 4.5rem 4rem 0; }
+.profile-hero__content h1 { margin: 0; color: #12343a; font-family: Montserrat, Arial, sans-serif; font-size: 4rem; font-weight: 700; line-height: 1.05; }
 .profile-hero__name-en { margin: 0.7rem 0 2rem; color: var(--teal); font-family: Montserrat, Arial, sans-serif; font-size: 1.05rem; font-weight: 600; }
 .profile-hero__role { margin-bottom: 1.5rem; color: var(--ink); font-size: 1rem; font-weight: 650; line-height: 1.6; }
 .profile-hero__statement { max-width: 560px; margin-bottom: 1.8rem; color: var(--text); font-family: Georgia, "Songti SC", serif; font-size: 1.35rem; line-height: 1.55; }
-.profile-hero__portrait { min-height: 610px; background: url("/images/cv.jpg") center 22% / cover no-repeat; }
+.profile-hero__portrait { min-height: 520px; background: url("/images/cv.jpg") center 20% / cover no-repeat; }
 
-.academic-overview { display: grid; grid-template-columns: minmax(260px, 0.72fr) minmax(0, 1.28fr); gap: 6rem; padding: 4.5rem 0; border-bottom: 1px solid var(--line); }
+.academic-overview { display: grid; grid-template-columns: minmax(250px, 0.75fr) minmax(0, 1.25fr); gap: 4rem; padding: 3.8rem 0; border-bottom: 1px solid var(--line); }
 .academic-overview__facts > div { padding: 1rem 0; border-top: 1px solid var(--line); }
 .academic-overview__facts > div:first-child { border-top: 2px solid var(--ink); }
 .academic-overview__facts span { display: block; margin-bottom: 0.25rem; color: var(--teal); font-size: 0.64rem; font-weight: 800; text-transform: uppercase; }
@@ -167,22 +167,22 @@ html.lang-zh .language-switch__en, html.lang-en .language-switch__zh { color: va
 .home-signature strong { display: block; color: var(--ink); font-family: Georgia, "Songti SC", "STSong", serif; font-size: 1.05rem; line-height: 1.3; }
 .home-signature span { display: block; margin-top: 0.2rem; color: var(--muted); font-size: 0.65rem; }
 
-.home-section { padding: 2.7rem 0; border-bottom: 1px solid var(--line); }
+.home-section { padding: 3.8rem 0; border-bottom: 1px solid var(--line); }
 .profile-hero ~ .academic-overview + .home-section { padding-top: 4.2rem; }
 .section-heading { margin-bottom: 1.35rem; }
 .section-heading h2 { margin: 0; font-size: 1.42rem; font-weight: 750; }
 .section-heading--row { display: flex; align-items: end; justify-content: space-between; gap: 20px; }
 .section-heading--row > a { padding-bottom: 0.15rem; font-size: 0.75rem; font-weight: 700; }
 
-.focus-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
-.focus-item { min-height: 150px; padding: 1.3rem; background: var(--white); }
+.focus-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 3rem; }
+.focus-item { min-height: 138px; padding: 1.25rem 0; border-top: 1px solid var(--line); background: var(--white); }
 .focus-item > span { color: var(--teal); font-size: 0.67rem; font-weight: 800; }
 .focus-item h3 { margin: 0.55rem 0 0.4rem; font-size: 1rem; }
 .focus-item p { margin: 0; color: var(--muted); font-size: 0.78rem; }
 
-.work-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.work-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
 .work-item { display: block; color: var(--ink); }
-.work-item img { width: 100%; aspect-ratio: 16 / 10; object-fit: contain; border: 1px solid var(--line); border-radius: 6px; background: var(--soft); }
+.work-item img { width: 100%; aspect-ratio: 16 / 10; object-fit: contain; border: 1px solid var(--line); border-radius: 3px; background: var(--soft); }
 .work-item > span { display: block; margin-top: 0.7rem; color: var(--teal); font-size: 0.64rem; font-weight: 800; }
 .work-item h3 { margin: 0.25rem 0 0; font-size: 0.86rem; line-height: 1.45; }
 .work-item:hover h3 { color: var(--teal); }
@@ -227,16 +227,23 @@ html.lang-zh .language-switch__en, html.lang-en .language-switch__zh { color: va
 
 .page__content .cv-section { margin-bottom: 2.4rem; }
 .page__content table { font-size: 0.78rem; }
+.page__content > .lang-zh > h2, .page__content > .lang-en > h2 { margin-top: 2.7rem; padding-bottom: 0.55rem; border-bottom: 1px solid var(--line); font-size: 1.25rem; }
+.page__content > .lang-zh > ol, .page__content > .lang-en > ol { padding-left: 1.25rem; }
+.page__content > .lang-zh > ol li, .page__content > .lang-en > ol li { margin-bottom: 0.75rem; padding-left: 0.35rem; font-size: 0.78rem; line-height: 1.65; }
+.page__footer { color: #dce7e7; background: var(--ink); }
+.page__footer a { color: var(--white); }
+.page__footer-follow { display: none; }
+.page__footer-copyright { max-width: 1280px; margin: 0 auto; color: #b9c9cb; font-size: 0.65rem; }
 
 @media (max-width: 900px) {
   .home-intro h1 { font-size: 2rem; }
   .work-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .publication { grid-template-columns: 145px minmax(0, 1fr) 48px; gap: 15px; }
   .publication > img, .publication > .thumb { width: 145px; height: 105px; }
-  .profile-hero { grid-template-columns: minmax(0, 1fr) minmax(300px, 0.8fr); min-height: 540px; }
+  .profile-hero { grid-template-columns: minmax(0, 1fr) 330px; min-height: 490px; }
   .profile-hero__content { padding: 4rem 2.5rem 4rem 0; }
   .profile-hero__content h1 { font-size: 3.6rem; }
-  .profile-hero__portrait { min-height: 540px; }
+  .profile-hero__portrait { min-height: 490px; }
   .academic-overview { gap: 3rem; }
 }
 
@@ -253,7 +260,7 @@ html.lang-zh .language-switch__en, html.lang-en .language-switch__zh { color: va
   .profile-hero__content h1 { font-size: 3rem; }
   .profile-hero__name-en { margin-bottom: 1.4rem; }
   .profile-hero__statement { font-size: 1.12rem; }
-  .profile-hero__portrait { order: 1; min-height: 62vh; background-position: center 20%; }
+  .profile-hero__portrait { order: 1; min-height: 410px; background-position: center 20%; }
   .academic-overview { grid-template-columns: 1fr; gap: 2.8rem; padding: 3rem 0; }
   .academic-overview__bio h2 { font-size: 1.55rem; }
   .home-signature { grid-template-columns: 1fr; gap: 0; }
