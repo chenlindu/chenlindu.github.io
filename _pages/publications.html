@@ -5,153 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+<section class="publications-intro">
+  <p class="section-kicker">Research Output</p>
+  <h1><span class="lang-zh">论文发表</span><span class="lang-en">Publications</span></h1>
+  <p class="lang-zh">研究涵盖口腔医学人工智能、医学影像分析、基础模型与临床智能系统。# 表示共同第一作者，信封标记表示通讯作者。</p>
+  <p class="lang-en">Research spanning dental AI, medical image analysis, foundation models, and clinical intelligent systems. # denotes co-first authorship; the envelope marks corresponding authors.</p>
+</section>
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Publications</title>
-  <link rel="stylesheet" href="/assets/css/style.css"> <!-- 主样式文件 -->
-<style>
-  /* 局部样式（可移到 style.css 中） */
-  body {
-  margin-top: 1;
-  padding-top: 1;
-}
-
-  .container {
-    padding-top: 0; 
-    max-width: 1200px; /* 适当调整最大宽度 */
-    margin: 0 auto; /* 使页面居中 */
-  }
-  
-  .publication {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    margin-bottom: 1.2em; /* 减小每个 publication 之间的间隔 */
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 0.5em;
-    margin-left: 0;
-    margin-right: 0; /* 根据需要调整右边的空白 */
-  }
-
-.publication img {
-  width: 200px; /* 固定宽度 */
-  height: 130px; /* 固定高度 */
-  margin-right: 10px;
-  border-radius: 5px;
-  object-position: left center; /* 保持左侧对齐，居中裁剪 */
-  object-fit: cover; /* 充满容器，统一视觉左对齐 */
-  background-color: transparent;
-  padding: 0;
-}
-  .publication .thumb {
-    width: 200px;
-    height: 130px;
-    margin-right: 10px;
-    flex: 0 0 auto;
-  }
-
-  .publication-content {
-    flex-grow: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between; /* 调整文字上下布局以匹配图片高度 */
-    padding: 0; /* 清除可能的内边距 */
-  }
-
-  .publication-title {
-    font-size: 0.8rem; /* 标题字体大小为 16px */
-    font-weight: bold;
-    margin-bottom: 0.3em; /* 减小标题与作者之间的间距 */
-  }
-
-  .publication-authors {
-    font-size: 0.7rem; /* 作者字体大小为 14px */
-    color: #555;
-    margin-bottom: 0.3em;
-  }
-
-  .publication-meta {
-    font-style: italic;
-    font-size: 0.7rem; /* 元信息字体大小为 14px */
-    color: #777;
-    margin-bottom: 0.7em; /* 减小与下方描述的间距 */
-  }
-
-  .publication-description {
-    margin-bottom: 0.7em; /* 描述与按钮之间的间距 */
-    font-size: 0.7rem; /* 描述字体大小为 14px */
-    color: #333;
-  }
-
-  .publication-buttons a {
-    font-size: 0.55rem; /* 按钮字体大小为 12px */
-    margin-right: 7px;
-    text-decoration: none;
-    padding: 4px 8px;
-    border: 1px solid #ddd;
-    border-radius: 3px;
-    color: #007bff;
-    background-color: #f9f9f9;
-  }
-
-  .publication-buttons a:hover {
-    background-color: #007bff;
-    color: white;
-  }
-
-  .publication-year {
-    font-size: 1.2rem; /* 调整年份大小为 24px */
-    font-weight: bold;
-    color: #ccc;
-    margin-left: 20px;
-  }
-
-  .publication-page {
-    margin-top: 0; 
-    padding-top: 0; 
-  }
-  .corr-icon { margin-left: 4px; color: #555; }
-  .corr-icon i { font-size: 0.75rem; }
-
-  /* Use flex layout (stable previous version) */
-  .publication {
-    display: grid;
-    grid-template-columns: 200px 1fr 60px;
-    column-gap: 10px;
-    align-items: start;
-  }
-  .publication > img,
-  .publication > .thumb {
-    grid-column: 1;
-    width: 200px;
-    height: 130px;
-    object-fit: cover;
-    object-position: left center;
-    margin-right: 0;
-  }
-  .publication > .publication-content {
-    grid-column: 2;
-  }
-  .publication > .publication-year {
-    grid-column: 3;
-    margin-left: 0;
-    text-align: right;
-  }
-  
-</style>
-
-</head>
-<body>
-  <div class="container">
-    <h1><span class="lang-zh">精选论文</span><span class="lang-en">Selected Papers</span></h1>
+<div class="publication-list">
 
     <div class="publication">
-      <img src="{{ base_path }}/images/idj.jpg" alt="Publication Image">
+      <img src="{{ base_path }}/images/idj.jpg" alt="Generative artificial intelligence in dentistry" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">Generative Artificial Intelligence: Applications and Future Prospects in Dentistry</div>
         <div class="publication-authors">Zeyao Ma#, <strong>Chenlin Du#</strong><span class="corr-icon" title="Corresponding author"><i class="fa-solid fa-envelope" aria-hidden="true"></i></span>, Qicheng Lao, Xianju Xie<span class="corr-icon" title="Corresponding author"><i class="fa-solid fa-envelope" aria-hidden="true"></i></span></div>
@@ -165,7 +29,7 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="{{ base_path }}/images/JID.jpg" alt="Publication Image">
+      <img src="{{ base_path }}/images/JID.jpg" alt="AI-based body surface area measurement in psoriasis" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">Development of an Artificial Intelligence–Based Model to Precisely Measure Body Surface Area in Psoriasis</div>
         <div class="publication-authors">Yiyi Wang, Xuhao Wang, Xinran Ming, Yuanxia Gu, Qian Wang, Mingzheng Zhu, Lin Qin, Furong Li, Yue Xiao, Hongxiang Hu, <strong>Chenlin Du</strong>, Yue Zhang, Mingyue Zhang, Ranjie Hu, Wei Li</div>
@@ -179,7 +43,7 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="{{ base_path }}/images/miccai2025.png" alt="Publication Image">
+      <img src="{{ base_path }}/images/miccai2025.png" alt="Endoscopic artifact inpainting and segmentation" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">Endoscopic Artifact Inpainting for Improved Endoscopic Image Segmentation</div>
         <div class="publication-authors">Zhangyuan Yu#, <strong>Chenlin Du#</strong>, Hongrui Liang, Xiuqi Zheng, Zeyao Ma, Mingjun Wu, Mingwu Ao, Qicheng Lao</div>
@@ -193,7 +57,7 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="{{ base_path }}/images/miccai_2025_sun.png" alt="Publication Image">
+      <img src="{{ base_path }}/images/miccai_2025_sun.png" alt="Phase-wise uncertainty guided MRI reconstruction" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">Guiding Quantitative MRI Reconstruction with Phase‑wise Uncertainty</div>
         <div class="publication-authors">Haozhong Sun, Zhongsen Li, <strong>Chenlin Du</strong>, Haokun Li, Yajie Wang, Huijun Chen</div>
@@ -207,8 +71,7 @@ author_profile: true
       <div class="publication-year">2025</div>
     </div>
 
-    <div class="publication">
-      <div class="thumb"></div>
+    <div class="publication no-image">
       <div class="publication-content">
         <div class="publication-title">Artificial intelligence in stomatology: Innovations in clinical practice, research, education, and healthcare management</div>
         <div class="publication-authors">Xuliang Deng, Mingming Xu, <strong>Chenlin Du</strong></div>
@@ -222,7 +85,7 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="{{ base_path }}/images/MedIA.jpg" alt="Publication Image">
+      <img src="{{ base_path }}/images/MedIA.jpg" alt="Unsupervised 4D-flow MRI reconstruction" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">Unsupervised 4D‑flow MRI reconstruction based on partially‑independent generative modeling and complex‑difference sparsity constraint</div>
         <div class="publication-authors">Zhongsen Li, Aiqi Sun, Haining Wei, Wenxuan Chen, Chuyu Liu, Haozhong Sun, <strong>Chenlin Du</strong>, Rui Li</div>
@@ -237,7 +100,7 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="{{ base_path }}/images/iscience.jpg" alt="Publication Image">
+      <img src="{{ base_path }}/images/iscience.jpg" alt="Ultrasound representation foundation model" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">URFM: a general Ultrasound Representation Foundation Model for advancing ultrasound image diagnosis</div>
         <div class="publication-authors">Qingbo Kang, Qicheng Lao, Jun Gao, Wuyongga Bao, Zhu He, <strong>Chenlin Du</strong>, Qiang Lu, Kang Li</div>
@@ -251,7 +114,7 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="{{ base_path }}/images/Jdent.jpg" alt="Publication Image">
+      <img src="{{ base_path }}/images/Jdent.jpg" alt="Computer-guided zygomatic implant surgery" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">Combined static and dynamic computer‑guided surgery for prosthetically driven zygomatic implant placement</div>
         <div class="publication-authors"><strong>Chenlin Du</strong>, Pei Peng, Xiaodong Guo, Yunshu Wu, Zeyu Zhang, Linke Hao, Zongjiu Zhang, Jingyu Xiong</div>
@@ -266,21 +129,21 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="{{ base_path }}/images/500x300.png" alt="Publication Image">
+      <img src="{{ base_path }}/images/tmi-context.jpg" alt="Dual similarity framework for in-context medical image segmentation" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">Boosting Your Context by Dual Similarity Checkup for In‑Context Learning Medical Image Segmentation</div>
         <div class="publication-authors">Jun Gao, Qicheng Lao, Qingbo Kang, Paul Liu, <strong>Chenlin Du</strong>, Kang Li, Le Zhang</div>
-        <div class="publication-meta">IEEE Transactions on Medical Imaging</div>
+        <div class="publication-meta">IEEE Transactions on Medical Imaging 44 (1), 310–319</div>
         <div class="publication-buttons">
           <a href="https://scholar.google.com/citations?user=aEvQIioAAAAJ&hl=zh-CN&view_op=list_works&sortby=pubdate">Scholar</a>
           <a href="https://ieeexplore.ieee.org/abstract/document/10630863">IEEE</a>
         </div>
       </div>
-      <div class="publication-year">2024</div>
+      <div class="publication-year">2025</div>
     </div>
 
     <div class="publication">
-      <img src="{{ base_path }}/images/hcs.jpg" alt="Publication Image">
+      <img src="{{ base_path }}/images/hcs.jpg" alt="Explainable pre-frailty risk assessment" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">Explainable machine learning model for pre‑frailty risk assessment in community‑dwelling older adults</div>
         <div class="publication-authors"><strong>Chenlin Du</strong>, Zeyu Zhang, Baoqin Liu, Zijian Cao, Nan Jiang, Zongjiu Zhang</div>
@@ -296,7 +159,7 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="{{ base_path }}/images/miccai2024.png" alt="Publication Image">
+      <img src="{{ base_path }}/images/miccai2024.png" alt="Dental notation-aware abnormality detection" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">Prompting Vision‑Language Models for Dental Notation Aware Abnormality Detection</div>
         <div class="publication-authors"><strong>Chenlin Du</strong>, Xiaoxuan Chen, Jingyi Wang, Junjie Wang, Zhongsen Li, Zongjiu Zhang, Qicheng Lao</div>
@@ -311,7 +174,7 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="{{ base_path }}/images/jcmr.jpg" alt="Publication Image">
+      <img src="{{ base_path }}/images/jcmr.jpg" alt="Carotid vessel wall MRI validation" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">Histological validation of 3D variable flip angle turbo spin echo multi‑contrast MRI vessel wall imaging in characterizing carotid vulnerable plaques</div>
         <div class="publication-authors">Jiachen Liu, Zihan Ning, <strong>Chenlin Du</strong>, Shuo Chen, Tao Wang, Jingli Cao, Ran Huo, Dongye Li, Dandan Yang, Rui Shen, Shuwan Yu, Chunjiang Hu, Shuhao Wang, Huiyu Qiao, Xihai Zhao</div>
@@ -326,8 +189,7 @@ author_profile: true
       <div class="publication-year">2024</div>
     </div>
 
-    <div class="publication">
-      <img src="{{ base_path }}/images/500x300.png" alt="Publication Image">
+    <div class="publication no-image">
       <div class="publication-content">
         <div class="publication-title">Characterization of kidneys in patients with systemic sclerosis by multi‑parametric magnetic resonance quantitative imaging</div>
         <div class="publication-authors">Xinyu Tong, Huilin He, Zihan Ning, Rui Shen, <strong>Chenlin Du</strong>, Xiaofeng Zeng, Qian Wang, Zuo-Xiang He, Dong Xu, Xihai Zhao</div>
@@ -342,7 +204,7 @@ author_profile: true
     </div>
 
     <div class="publication">
-      <img src="{{ base_path }}/images/500x300.png" alt="Publication Image">
+      <img src="{{ base_path }}/images/rmd-cardiac.jpg" alt="Cardiac MR measurements in systemic sclerosis" loading="lazy">
       <div class="publication-content">
         <div class="publication-title">Diffusing capacity of lungs for carbon monoxide associated with subclinical myocardial impairment in systemic sclerosis: a cardiac MR study</div>
         <div class="publication-authors">Huilin He, Xinyu Tong, Zihan Ning, Jiaxin Zhou, <strong>Chenlin Du</strong>, Yuhua Wang, Qian Wang, Dong Xu, Xiaofeng Zeng, Zuo-Xiang He, Xihai Zhao</div>
@@ -357,8 +219,7 @@ author_profile: true
       <div class="publication-year">2023</div>
     </div>
 
-    <div class="publication">
-      <img src="{{ base_path }}/images/500x300.png" alt="Publication Image">
+    <div class="publication no-image">
       <div class="publication-content">
         <div class="publication-title">A Real‑Time Non‑Implantation Bi‑Directional Brain–Computer Interface Solution without Stimulation Artifacts</div>
         <div class="publication-authors">Yike Sun, Anruo Shen, <strong>Chenlin Du</strong>, Jingnan Sun, Xiaogang Chen, Xiaorong Gao</div>
@@ -372,8 +233,7 @@ author_profile: true
       <div class="publication-year">2023</div>
     </div>
 
-    <div class="publication">
-      <img src="{{ base_path }}/images/500x300.png" alt="Publication Image">
+    <div class="publication no-image">
       <div class="publication-content">
         <div class="publication-title">Minimally Invasive Local‑Skull Electrophysiological Modification With Piezoelectric Drill</div>
         <div class="publication-authors">Yike Sun, Anruo Shen, Jingnan Sun, <strong>Chenlin Du</strong>, Xiaogang Chen, Yijun Wang, Weihua Pei, Xiaorong Gao</div>
@@ -387,8 +247,7 @@ author_profile: true
       <div class="publication-year">2022</div>
     </div>
 
-    <div class="publication">
-      <img src="{{ base_path }}/images/500x300.png" alt="Publication Image">
+    <div class="publication no-image">
       <div class="publication-content">
         <div class="publication-title">Slice‑based and time‑specific hemodynamic measurements discriminate carotid artery vulnerable atherosclerotic plaques</div>
         <div class="publication-authors">Rui Shen, Xinyu Tong, Dongye Li, Zihan Ning, Hualu Han, Yongjun Han, Dandan Yang, <strong>Chenlin Du</strong>, Tao Wang, Jingli Cao, Yilan Xu, Ran Huo, Huiyu Qiao, Xihai Zhao</div>
@@ -401,6 +260,18 @@ author_profile: true
       </div>
       <div class="publication-year">2022</div>
     </div>
-  </div>
-</body>
-</html>
+
+    <div class="publication no-image">
+      <div class="publication-content">
+        <div class="publication-title">Optimization of MEMS coil structure parameters for wireless power transfer system based on magnetic resonance</div>
+        <div class="publication-authors">Dongdong Xu, Wei Xu, Xiuhan Li, Guowu Wei, Haiyang Guo, <strong>Chenlin Du</strong></div>
+        <div class="publication-meta">Microsystem Technologies 24 (5), 2349–2356</div>
+        <div class="publication-buttons">
+          <a href="https://scholar.google.com/citations?user=aEvQIioAAAAJ&hl=zh-CN&view_op=list_works&sortby=pubdate">Scholar</a>
+          <a href="https://doi.org/10.1007/s00542-017-3646-8">DOI</a>
+          <a href="https://link.springer.com/article/10.1007/s00542-017-3646-8">Journal</a>
+        </div>
+      </div>
+      <div class="publication-year">2018</div>
+    </div>
+</div>
