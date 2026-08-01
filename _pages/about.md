@@ -18,6 +18,11 @@ redirect_from:
     <a class="home-action" href="/cv/">个人简历</a>
     <a class="home-action" href="mailto:dcchenlin@icloud.com">科研合作</a>
   </div>
+  <div class="home-signature" aria-label="学术概览">
+    <div><strong>18</strong><span>篇论文</span></div>
+    <div><strong>MICCAI</strong><span>2025 Spotlight</span></div>
+    <div><strong>Dental AI</strong><span>临床转化研究</span></div>
+  </div>
 </section>
 
 <section class="home-section">
@@ -76,6 +81,11 @@ redirect_from:
     <a class="home-action home-action--primary" href="/publications/">Publications</a>
     <a class="home-action" href="/cv/">Curriculum Vitae</a>
     <a class="home-action" href="mailto:dcchenlin@icloud.com">Collaborate</a>
+  </div>
+  <div class="home-signature" aria-label="Academic overview">
+    <div><strong>18</strong><span>Publications</span></div>
+    <div><strong>MICCAI</strong><span>2025 Spotlight</span></div>
+    <div><strong>Dental AI</strong><span>Clinical Translation</span></div>
   </div>
 </section>
 

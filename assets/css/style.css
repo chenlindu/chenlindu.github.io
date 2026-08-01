@@ -43,27 +43,39 @@ html.lang-en .lang-zh { display: none !important; }
 }
 
 .masthead__inner-wrap { padding-top: 0.65em; padding-bottom: 0.65em; }
+.masthead__menu { position: relative; padding-right: 112px; }
 .greedy-nav { background: transparent; }
 .greedy-nav a { color: var(--ink); }
 .greedy-nav .visible-links a::before { background: var(--teal); }
 .greedy-nav .site-title { font-size: 1.05rem; font-weight: 750; }
 .masthead__menu-item { font-size: 0.8rem; }
 
-#lang-toggle {
-  min-width: 38px;
-  height: 30px;
-  margin-left: 8px;
-  padding: 0 9px;
+.language-switch {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  z-index: 5;
+  display: inline-grid;
+  grid-template-columns: 1fr 1px 1fr;
+  align-items: center;
+  width: 92px;
+  height: 34px;
+  padding: 3px;
   border: 1px solid var(--line);
-  border-radius: 5px;
+  border-radius: 6px;
   color: var(--ink);
   background: var(--white);
   font: inherit;
-  font-size: 0.72rem;
+  font-size: 0.68rem;
   font-weight: 700;
   cursor: pointer;
+  transform: translateY(-50%);
 }
-#lang-toggle:hover { border-color: var(--teal); color: var(--teal); }
+.language-switch:hover { border-color: var(--teal); }
+.language-switch__divider { width: 1px; height: 14px; background: var(--line); }
+.language-switch__zh, .language-switch__en { display: grid; place-items: center; height: 26px; border-radius: 4px; }
+html.lang-zh .language-switch__zh, html.lang-en .language-switch__en { color: var(--white); background: var(--teal); }
+html.lang-zh .language-switch__en, html.lang-en .language-switch__zh { color: var(--muted); background: transparent; }
 
 #main { padding-top: 2.2em; }
 .page__content { color: var(--text); }
@@ -84,10 +96,12 @@ html.lang-en .lang-zh { display: none !important; }
 .author__urls a:hover { color: var(--teal); }
 
 .home-intro {
+  position: relative;
   max-width: 760px;
-  padding: 1.4rem 0 2.8rem;
+  padding: 2rem 0 3rem;
   border-bottom: 1px solid var(--line);
 }
+.home-intro::before { content: ""; position: absolute; top: 0; left: 0; width: 58px; height: 3px; background: var(--teal); }
 .home-kicker, .section-kicker {
   margin: 0 0 0.55rem;
   color: var(--teal);
@@ -99,9 +113,10 @@ html.lang-en .lang-zh { display: none !important; }
 .home-intro h1 {
   max-width: 720px;
   margin: 0 0 1rem;
-  font-size: 2.35rem;
-  line-height: 1.18;
-  font-weight: 780;
+  font-family: Georgia, "Songti SC", "STSong", serif;
+  font-size: 2.55rem;
+  line-height: 1.2;
+  font-weight: 700;
 }
 .home-lead { color: var(--ink); font-size: 1.08rem; line-height: 1.65; }
 .home-actions { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 1.6rem; }
@@ -120,6 +135,11 @@ html.lang-en .lang-zh { display: none !important; }
 .home-action:hover { border-color: var(--teal); color: var(--teal); }
 .home-action--primary { border-color: var(--teal); color: var(--white); background: var(--teal); }
 .home-action--primary:hover { color: var(--white); background: var(--teal-dark); }
+.home-signature { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); margin-top: 2.2rem; padding-top: 1.2rem; border-top: 1px solid var(--line); }
+.home-signature > div { padding-right: 1rem; }
+.home-signature > div + div { padding-left: 1rem; border-left: 1px solid var(--line); }
+.home-signature strong { display: block; color: var(--ink); font-family: Georgia, "Songti SC", "STSong", serif; font-size: 1.05rem; line-height: 1.3; }
+.home-signature span { display: block; margin-top: 0.2rem; color: var(--muted); font-size: 0.65rem; }
 
 .home-section { padding: 2.7rem 0; border-bottom: 1px solid var(--line); }
 .section-heading { margin-bottom: 1.35rem; }
@@ -152,6 +172,7 @@ html.lang-en .lang-zh { display: none !important; }
 .profile-list dd { margin: 0.15rem 0 0; color: var(--ink); font-size: 0.78rem; }
 
 .publications-intro { max-width: 720px; padding: 1rem 0 2.2rem; }
+.archive > .page__title { display: none; }
 .publications-intro h1 { margin: 0 0 0.8rem; font-size: 2.1rem; }
 .publications-intro p:last-child { color: var(--muted); }
 .publication-list { border-top: 2px solid var(--ink); }
@@ -191,8 +212,13 @@ html.lang-en .lang-zh { display: none !important; }
   body { padding-top: 58px; font-size: 14px; }
   #main { padding-top: 1.2em; }
   .masthead { min-height: 58px; }
+  .masthead__menu { padding-right: 91px; }
+  .language-switch { width: 78px; height: 32px; font-size: 0.62rem; }
   .home-intro { padding-top: 0.8rem; }
-  .home-intro h1 { font-size: 1.75rem; }
+  .home-intro h1 { font-size: 1.85rem; }
+  .home-signature { grid-template-columns: 1fr; gap: 0; }
+  .home-signature > div { padding: 0.7rem 0; }
+  .home-signature > div + div { padding-left: 0; border-top: 1px solid var(--line); border-left: 0; }
   .focus-grid, .work-grid, .home-columns { grid-template-columns: 1fr; }
   .focus-item { min-height: 0; }
   .home-columns { gap: 26px; }
